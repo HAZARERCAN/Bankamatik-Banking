@@ -1,0 +1,7 @@
+C:\Users\HAZAR\source\repos\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\HAZAR\source\repos\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\HAZAR\source\repos\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\HAZAR\source\repos\Bankamatik\obj\Debug\Bankamatik.csproj.AssemblyReference.cache
+C:\Users\HAZAR\source\repos\Bankamatik\obj\Debug\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\HAZAR\source\repos\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\HAZAR\source\repos\Bankamatik\obj\Debug\Bankamatik.pdb
